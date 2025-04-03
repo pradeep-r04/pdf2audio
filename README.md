@@ -10,11 +10,11 @@ The app allows users to upload a PDF document, extract text from specific pages,
 ✅ Simple and Interactive UI – Built using Streamlit for an easy-to-use interface.  
 
 # How It Works 🔧
-1.Upload a PDF file using the file uploader.  
-2.Select the page range from which you want to extract text.  
-3.The app extracts the text and displays it in a text area.  
-4.Click "Start Reading" to generate an MP3 file and play the audio.  
-5.Use Pause, Resume, and Reset buttons to control playback.  
+1. Upload a PDF file using the file uploader.  
+2. Select the page range from which you want to extract text.  
+3. The app extracts the text and displays it in a text area.  
+4. Click "Start Reading" to generate an MP3 file and play the audio.  
+5. Use Pause, Resume, and Reset buttons to control playback.  
 
 # Technologies Used 💻
 Python 🐍  

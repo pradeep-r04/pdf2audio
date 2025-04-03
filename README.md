@@ -33,4 +33,8 @@ This app is deployed on Streamlit Community Cloud, making it accessible online w
 
 # Try It Now!
 🚀 Experience the power of PDF-to-Audio conversion with a single click!  
-https://pdf2audio-pr4.streamlit.app/
+https://pdf2audio-pr4.streamlit.app/  
+
+# Image
+![Image of the App](file:///C:/Users/VIRENDER%20SINGH/OneDrive/Pictures/Screenshots/Screenshot%202025-04-03%20190635.png)
+

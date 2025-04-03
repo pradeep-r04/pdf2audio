@@ -36,5 +36,5 @@ This app is deployed on Streamlit Community Cloud, making it accessible online w
 https://pdf2audio-pr4.streamlit.app/  
 
 # Image
-![Image of the App](file:///C:/Users/VIRENDER%20SINGH/OneDrive/Pictures/Screenshots/Screenshot%202025-04-03%20190635.png)
+![Image](https://github.com/user-attachments/assets/8e463267-c973-49b3-8196-adf6cb1b9ec4)
 

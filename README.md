@@ -36,5 +36,9 @@ This app is deployed on Streamlit Community Cloud, making it accessible online w
 https://pdf2audio-pr4.streamlit.app/  
 
 # Image
-![Image](https://github.com/user-attachments/assets/8e463267-c973-49b3-8196-adf6cb1b9ec4)
+![Image](https://github.com/user-attachments/assets/8e463267-c973-49b3-8196-adf6cb1b9ec4)  
 
+## Connect with me:
+| Name    | Email              | LinkedIn                                      | GitHub                      | Instagram                     |
+|---------|--------------------|-----------------------------------------------|-----------------------------|-------------------------------|
+| Pradeep Singh | [Email](pradeep.singh04r@gmail.com)  | [LinkedIn](https://linkedin.com/in/pradeep-singh4) | [GitHub](https://github.com/pradeep-r04) | [Instagram](https://instagram.com/whypradeeep) |
